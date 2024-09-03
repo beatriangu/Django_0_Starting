@@ -1,6 +1,6 @@
 # Django_0_Starting
 
-ex00 my first variables
+ex00 My first variables
 Defining and printing 9 types of variables.
 
 ex01 Numbers
