@@ -19,3 +19,7 @@ ex06 Dictionary sorting.
 
 ex07 Periodic table of the elements
 Maintaining the layout of Mendeleev’s Periodic Table.The resulting HTML file must be valid according to W3C standards and viewable in any browser.
+
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
